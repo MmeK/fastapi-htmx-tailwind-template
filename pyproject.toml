@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "htmx"
-version = "0.1.0"
+name = "fastapi-htmx-tailwind-template"
+version = "0.0.1"
 description = ""
 authors = ["Mohammad Kazemi <kazemi.me.222@gmail.com>"]
 readme = "README.md"
